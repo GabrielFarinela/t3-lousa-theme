@@ -2,6 +2,10 @@
 
 A university blackboard theme for [T3 Code](https://t3.codes). The background is a black chalkboard with faint eraser marks. A few equations and sketches are drawn in chalk beside your messages, in off-white and mustard, and never under the text.
 
+![New thread](previews/new-thread.png)
+![A conversation](previews/thread.png)
+![Model picker](previews/model-picker.png)
+![Settings](previews/settings.png)
 ![The board](previews/board.png)
 
 ## Install
